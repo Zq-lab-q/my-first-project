@@ -1,2 +1,1 @@
-# my-first-project
-AI套图展示项目
+# 这是我的一个项目
